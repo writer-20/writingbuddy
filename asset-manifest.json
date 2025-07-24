@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/writingbuddy/static/css/main.308a0972.css",
-    "main.js": "/writingbuddy/static/js/main.39e49b00.js",
-    "index.html": "/writingbuddy/index.html",
-    "main.308a0972.css.map": "/writingbuddy/static/css/main.308a0972.css.map",
-    "main.39e49b00.js.map": "/writingbuddy/static/js/main.39e49b00.js.map"
+    "main.css": "/writingbuddy-fresh%20/static/css/main.308a0972.css",
+    "main.js": "/writingbuddy-fresh%20/static/js/main.e3277dab.js",
+    "index.html": "/writingbuddy-fresh%20/index.html",
+    "main.308a0972.css.map": "/writingbuddy-fresh%20/static/css/main.308a0972.css.map",
+    "main.e3277dab.js.map": "/writingbuddy-fresh%20/static/js/main.e3277dab.js.map"
   },
   "entrypoints": [
     "static/css/main.308a0972.css",
-    "static/js/main.39e49b00.js"
+    "static/js/main.e3277dab.js"
   ]
 }
