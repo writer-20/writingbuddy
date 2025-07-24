@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/writingbuddy/static/css/main.308a0972.css",
-    "main.js": "/writingbuddy/static/js/main.d015e324.js",
+    "main.js": "/writingbuddy/static/js/main.39e49b00.js",
     "index.html": "/writingbuddy/index.html",
     "main.308a0972.css.map": "/writingbuddy/static/css/main.308a0972.css.map",
-    "main.d015e324.js.map": "/writingbuddy/static/js/main.d015e324.js.map"
+    "main.39e49b00.js.map": "/writingbuddy/static/js/main.39e49b00.js.map"
   },
   "entrypoints": [
     "static/css/main.308a0972.css",
-    "static/js/main.d015e324.js"
+    "static/js/main.39e49b00.js"
   ]
 }
