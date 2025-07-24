@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/writingbuddy/static/css/main.308a0972.css",
+    "main.js": "/writingbuddy/static/js/main.d015e324.js",
+    "index.html": "/writingbuddy/index.html",
+    "main.308a0972.css.map": "/writingbuddy/static/css/main.308a0972.css.map",
+    "main.d015e324.js.map": "/writingbuddy/static/js/main.d015e324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308a0972.css",
+    "static/js/main.d015e324.js"
+  ]
+}
